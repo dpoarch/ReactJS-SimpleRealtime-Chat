@@ -1,0 +1,8 @@
+#Instruction
+
+1. Cd on your project directory
+2. Run the command `npm install` in your command prompt
+3. After install run `npm start`
+4. starts at localhost:3000 
+
+Thanks
